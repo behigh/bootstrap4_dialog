@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap4_dialog",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 modal enhancement. Allows to dynamically create modals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "dialogue",
+    "modal"
+  ],
+  "author": "BeHigh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
